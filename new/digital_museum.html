@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get All Cookies</title>
+</head>
+<body>
+    <script>
+        // Function to get all cookies as an object
+        function getAllCookies() {
+            let cookies = document.cookie.split(';');
+            let cookieObj = {};
+            cookies.forEach(cookie => {
+                let [name, ...value] = cookie.split('=');
+                name = name ? name.trim() : "";
+                value = value.length > 0 ? value.join('=').trim() : undefined;
+                if (name) {
+                    cookieObj[name] = decodeURIComponent(value);
+                }
+            });
+            return cookieObj;
+        }
+
+        // Retrieve and log all cookies
+        let allCookies = getAllCookies();
+        console.log("All Cookies:", allCookies);
+
+        // Display cookies on the webpage
+        document.body.innerHTML = `<pre>${JSON.stringify(allCookies, null, 2)}</pre>`;
+    </script>
+</body>
+</html>

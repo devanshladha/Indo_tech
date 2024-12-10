@@ -1,0 +1,81 @@
+body{
+    overflow-y: hidden;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+#main { 
+    background-color: #F5F5DC; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    overflow: hidden; 
+} 
+h1 { 
+    margin-bottom: 20px; 
+} 
+.container { 
+    background-color: #F5F5DC; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 5px 5px 15px 15px #bdbcbc; 
+    max-width: 500px; 
+    height: 70vh; /* Change height as needed */ 
+    overflow-y: scroll; 
+    scroll-snap-type: y mandatory;
+}
+
+.fact {
+    background-color: #fbd39c;
+    scroll-snap-align: start;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s ease-in-out;
+}
+
+.fact.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.fact img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.fact img:hover {
+    transform: scale(1.05);
+}
+
+.fact p {
+    font-size: 1.2em;
+    color: #00796b;
+}
+
+.like-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+    color: #00796b;
+}
+
+
+.like-button .material-symbols-outlined {
+    font-size: 1.5em;
+    color:  #764b36;
+    margin-right: 10px;
+    transition: transform 0.3s;
+}
+
+.like-button:hover .material-symbols-outlined {
+    transform: scale(1.2);
+}

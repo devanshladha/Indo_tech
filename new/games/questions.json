@@ -1,0 +1,1362 @@
+[
+    {
+        "s_no": 1,
+        "question": "Which of the following is the oldest classical dance form of India?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Kuchipudi",
+            "D": "Odissi"
+        },
+        "correct_answer": "B",
+        "description": "Bharatnatyam is the oldest classical dance form of India, originating in Tamil Nadu and known for its grace, storytelling, and intricate footwork."
+    },
+    {
+        "s_no": 2,
+        "question": "In which state is the Kathakali dance form primarily performed?",
+        "options": {
+            "A": "Kerala",
+            "B": "Uttar Pradesh",
+            "C": "Tamil Nadu",
+            "D": "Odisha"
+        },
+        "correct_answer": "A",
+        "description": "Kathakali is a traditional dance-drama from Kerala, characterized by elaborate costumes, vibrant makeup, and expressive facial gestures."
+    },
+    {
+        "s_no": 3,
+        "question": "The graceful and rhythmic footwork is a distinctive feature of which dance form?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Manipuri",
+            "D": "Odissi"
+        },
+        "correct_answer": "A",
+        "description": "Kathak is known for its intricate footwork, spins, and fast-paced movements that narrate stories through rhythmic patterns."
+    },
+    {
+        "s_no": 4,
+        "question": "Which dance form is known for its intricate hand gestures and mudras?",
+        "options": {
+            "A": "Kuchipudi",
+            "B": "Kathakali",
+            "C": "Bharatnatyam",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "description": "All three forms—Kuchipudi, Kathakali, and Bharatnatyam—use detailed hand gestures (mudras) to express emotions and tell stories."
+    },
+    {
+        "s_no": 5,
+        "question": "The Manipuri dance form is associated with which Indian state?",
+        "options": {
+            "A": "Manipur",
+            "B": "Assam",
+            "C": "Tripura",
+            "D": "Meghalaya"
+        },
+        "correct_answer": "A",
+        "description": "Manipuri is a classical dance form originating from the northeastern state of Manipur, known for its graceful, fluid movements."
+    },
+    {
+        "s_no": 6,
+        "question": "Which dance form is characterized by its energetic and vibrant movements?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Odissi",
+            "C": "Kuchipudi",
+            "D": "Bhangra"
+        },
+        "correct_answer": "D",
+        "description": "Bhangra is a lively, energetic dance from Punjab, typically performed during harvest festivals, with fast footwork and vibrant expressions."
+    },
+    {
+        "s_no": 7,
+        "question": "The divine love story of Radha and Krishna is often depicted in which dance form?",
+        "options": {
+            "A": "Kathak",
+            "B": "Odissi",
+            "C": "Manipuri",
+            "D": "Bharatnatyam"
+        },
+        "correct_answer": "B",
+        "description": "Odissi often portrays the divine love of Radha and Krishna, showcasing devotional themes through graceful movements and facial expressions."
+    },
+    {
+        "s_no": 8,
+        "question": "Which dance form is known for its fast-paced and energetic performances?",
+        "options": {
+            "A": "Bharatnatyam",
+            "B": "Kathak",
+            "C": "Kuchipudi",
+            "D": "Bhangra"
+        },
+        "correct_answer": "D",
+        "description": "Bhangra is known for its fast-paced, energetic moves and vibrant performances that reflect the celebratory culture of Punjab."
+    },
+    {
+        "s_no": 9,
+        "question": "Which dance form is characterized by its graceful and flowing movements?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Odissi",
+            "C": "Bharatnatyam",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "description": "All of these dance forms—Kathakali, Odissi, and Bharatnatyam—are known for their graceful, flowing movements that embody deep storytelling."
+    },
+    {
+        "s_no": 10,
+        "question": "The Natya Shastra, an ancient Indian treatise on performing arts, mentions which dance form?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Kuchipudi",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "description": "The Natya Shastra, written by Bharat Muni, is a foundational text that discusses the various classical dance forms like Kathak, Bharatnatyam, and Kuchipudi."
+    },
+    {
+        "s_no": 11,
+        "question": "Which of the following is a UNESCO World Heritage Site known for its diverse wildlife and mangrove forests?",
+        "options": {
+            "A": "Kaziranga National Park",
+            "B": "Sundarbans National Park",
+            "C": "Ranthambore National Park",
+            "D": "Periyar Tiger Reserve"
+        },
+        "correct_answer": "B",
+        "description": "Sundarbans National Park, a UNESCO World Heritage Site, is home to the famous Royal Bengal tigers and features unique mangrove ecosystems."
+    },
+    {
+        "s_no": 12,
+        "question": "Which mountain range is home to the highest peak in India, Mount Kanchenjunga?",
+        "options": {
+            "A": "Himalayas",
+            "B": "Western Ghats",
+            "C": "Eastern Ghats",
+            "D": "Vindhya Range"
+        },
+        "correct_answer": "A",
+        "description": "Mount Kanchenjunga, the highest peak in India, is located in the Himalayan mountain range, a region renowned for its towering peaks and biodiversity."
+    },
+    {
+        "s_no": 13,
+        "question": "Which Indian state is known for its backwaters, a network of lagoons, lakes, canals, and rivers?",
+        "options": {
+            "A": "Kerala",
+            "B": "Tamil Nadu",
+            "C": "Karnataka",
+            "D": "Andhra Pradesh"
+        },
+        "correct_answer": "A",
+        "description": "Kerala is famous for its backwaters, a serene network of interconnected rivers, lakes, and canals surrounded by lush greenery and wildlife."
+    },
+    {
+        "s_no": 14,
+        "question": "Which national park is famous for its one-horned rhinoceros?",
+        "options": {
+            "A": "Kaziranga National Park",
+            "B": "Corbett National Park",
+            "C": "Ranthambore National Park",
+            "D": "Periyar Tiger Reserve"
+        },
+        "correct_answer": "A",
+        "description": "Kaziranga National Park in Assam is renowned for its population of the endangered one-horned rhinoceros, a symbol of wildlife conservation."
+    },
+    {
+        "s_no": 15,
+        "question": "Which Indian state is known for its diverse flora and fauna, including the Great Indian Hornbill?",
+        "options": {
+            "A": "Arunachal Pradesh",
+            "B": "Sikkim",
+            "C": "Meghalaya",
+            "D": "Nagaland"
+        },
+        "correct_answer": "A",
+        "description": "Arunachal Pradesh is home to the Great Indian Hornbill and boasts rich biodiversity, making it a key location for wildlife enthusiasts and conservationists."
+    },
+    {
+        "s_no": 16,
+        "question": "Which desert is located in the western part of India?",
+        "options": {
+            "A": "Thar Desert",
+            "B": "Great Indian Desert",
+            "C": "Both A and B",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "description": "The Thar Desert, also known as the Great Indian Desert, spans across the western regions of India, primarily in Rajasthan."
+    },
+    {
+        "s_no": 17,
+        "question": "Which Indian state is known for its tea plantations and stunning hill stations?",
+        "options": {
+            "A": "Assam",
+            "B": "West Bengal",
+            "C": "Himachal Pradesh",
+            "D": "Uttarakhand"
+        },
+        "correct_answer": "A",
+        "description": "Assam is renowned for its tea plantations and picturesque hill stations like Kaziranga and Jorhat, making it a popular destination for nature lovers."
+    },
+    {
+        "s_no": 18,
+        "question": "Which river is considered sacred in Hinduism and flows through several Indian states?",
+        "options": {
+            "A": "Ganga",
+            "B": "Yamuna",
+            "C": "Indus",
+            "D": "Brahmaputra"
+        },
+        "correct_answer": "A",
+        "description": "The Ganga is considered one of the holiest rivers in Hinduism, flowing through northern India and serving as a lifeline for millions of people."
+    },
+    {
+        "s_no": 19,
+        "question": "Which Indian state is known for its beautiful beaches and backwaters?",
+        "options": {
+            "A": "Goa",
+            "B": "Kerala",
+            "C": "Tamil Nadu",
+            "D": "Andhra Pradesh"
+        },
+        "correct_answer": "A",
+        "description": "Goa is famous for its stunning beaches, vibrant nightlife, and the unique backwaters that add to its charm as a top tourist destination."
+    },
+    {
+        "s_no": 20,
+        "question": "Which Indian state is home to the Western Ghats, a biodiversity hotspot?",
+        "options": {
+            "A": "Kerala",
+            "B": "Karnataka",
+            "C": "Tamil Nadu",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "description": "The Western Ghats stretch across Kerala, Karnataka, and Tamil Nadu, offering rich biodiversity and supporting many endemic species."
+    },
+    {
+        "s_no": 21,
+        "question": "Which ancient city, now in ruins, was once the capital of the Vijayanagara Empire?",
+        "options": {
+            "A": "Hampi",
+            "B": "Fatehpur Sikri",
+            "C": "Mahabalipuram",
+            "D": "Ajanta"
+        },
+        "correct_answer": "A",
+        "description": "Hampi was the capital of the Vijayanagara Empire and is now a UNESCO World Heritage site, famous for its architectural ruins and ancient temples."
+    },
+    {
+        "s_no": 22,
+        "question": "Which fort is known for its intricate carvings and sculptures, often depicting scenes from Hindu mythology?",
+        "options": {
+            "A": "Mehrangarh Fort",
+            "B": "Chittor Fort",
+            "C": "Konark Sun Temple",
+            "D": "Gwalior Fort"
+        },
+        "correct_answer": "C",
+        "description": "The Konark Sun Temple, a UNESCO World Heritage site, is known for its intricate carvings and sculptures depicting Hindu mythology, especially the sun god Surya."
+    },
+    {
+        "s_no": 23,
+        "question": "Which ancient rock-cut temples in Maharashtra are famous for their intricate Buddhist cave paintings?",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Ellora Caves",
+            "C": "Khajuraho Temples",
+            "D": "Mahabalipuram Temples"
+        },
+        "correct_answer": "A",
+        "description": "The Ajanta Caves in Maharashtra are renowned for their exquisite Buddhist cave paintings that date back to the 2nd century BCE."
+    },
+    {
+        "s_no": 24,
+        "question": "Which fort in Rajasthan is known for its intricate carvings and massive fortifications?",
+        "options": {
+            "A": "Mehrangarh Fort",
+            "B": "Jaisalmer Fort",
+            "C": "Chittorgarh Fort",
+            "D": "Kumbhalgarh Fort"
+        },
+        "correct_answer": "A",
+        "description": "Mehrangarh Fort, located in Jodhpur, Rajasthan, is known for its towering walls, intricate carvings, and rich history dating back to the 15th century."
+    },
+    {
+        "s_no": 25,
+        "question": "Which Indian dance form is primarily performed by men and involves dramatic facial expressions and elaborate makeup?",
+        "options": {
+            "A": "Kathak",
+            "B": "Kuchipudi",
+            "C": "Kathakali",
+            "D": "Manipuri"
+        },
+        "correct_answer": "C",
+        "description": "Kathakali is a traditional Indian dance-drama from Kerala, performed mainly by men, featuring elaborate makeup, costumes, and dramatic facial expressions."
+    },
+    {
+        "s_no": 26,
+        "question": "Which Mughal emperor was known for his patronage of the arts and architecture, commissioning the Taj Mahal?",
+        "options": {
+            "A": "Akbar",
+            "B": "Shah Jahan",
+            "C": "Babur",
+            "D": "Aurangzeb"
+        },
+        "correct_answer": "B",
+        "description": "Shah Jahan, the Mughal emperor, is best known for commissioning the Taj Mahal, a symbol of love and one of the Seven Wonders of the World."
+    },
+    {
+        "s_no": 27,
+        "question": "Which traditional Indian art form involves the painting of intricate patterns using dots and lines, often seen in Gujarat and Rajasthan?",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Pattachitra",
+            "D": "Mandala"
+        },
+        "correct_answer": "D",
+        "description": "Mandala is a traditional Indian art form that uses intricate patterns of dots and lines, commonly seen in Gujarat and Rajasthan, symbolizing the universe."
+    },
+    {
+        "s_no": 31,
+        "question": "The term 'Kala-Purusha' in Indian aesthetics refers to which concept in traditional art and architecture?",
+        "options": {
+            "A": "The divine artist",
+            "B": "The cosmic time",
+            "C": "The sculptor's soul",
+            "D": "The eternal beauty"
+        },
+        "correct_answer": "B",
+        "description": "'Kala-Purusha' refers to the cosmic time in Indian aesthetics, symbolizing the concept of time and its impact on the creation and destruction of art and architecture."
+    },
+    {
+        "s_no": 32,
+        "question": "Which of the following dynasties is credited with the creation of the 'Chola Bronzes', masterpieces of Indian metallurgy and sculpture?",
+        "options": {
+            "A": "Maurya Dynasty",
+            "B": "Gupta Dynasty",
+            "C": "Chola Dynasty",
+            "D": "Mughal Dynasty"
+        },
+        "correct_answer": "C",
+        "description": "The Chola Dynasty is famous for the creation of 'Chola Bronzes', exceptional examples of Indian metallurgy and sculpture, especially depicting the Hindu god Shiva."
+    },
+    {
+        "s_no": 33,
+        "question": "The 'Madhubani' painting style is primarily associated with which state in India, and it is known for its distinct use of patterns and motifs?",
+        "options": {
+            "A": "Bihar",
+            "B": "Madhya Pradesh",
+            "C": "Uttarakhand",
+            "D": "Rajasthan"
+        },
+        "correct_answer": "A",
+        "description": "Madhubani painting is a traditional art form from Bihar, known for its intricate patterns, vibrant colors, and themes often inspired by nature and mythology."
+    },
+    {
+        "s_no": 34,
+        "question": "In Indian classical music, the concept of 'Raga' is believed to affect which aspect of human life?",
+        "options": {
+            "A": "The physical body",
+            "B": "The soul and emotions",
+            "C": "The material wealth",
+            "D": "The intellectual abilities"
+        },
+        "correct_answer": "B",
+        "description": "'Raga' in Indian classical music is believed to influence the soul and emotions, creating a specific mood and connecting with the listener's inner feelings."
+    },
+    {
+        "s_no": 35,
+        "question": "Which famous Indian sculptor is known for his iconic works such as the 'Statue of Unity' and the 'Sardar Vallabhbhai Patel Memorial'?",
+        "options": {
+            "A": "Ram Kinker Baij",
+            "B": "Subodh Gupta",
+            "C": "Ravindra Reddy",
+            "D": "Ram V. Sutar"
+        },
+        "correct_answer": "D",
+        "description": "Ram V. Sutar is a renowned Indian sculptor, known for creating monumental works like the 'Statue of Unity' and the 'Sardar Vallabhbhai Patel Memorial'."
+    },
+    {
+        "s_no": 36,
+        "question": "Which region of India is associated with the 'Tanjore' style of painting, known for its use of gold foil and vibrant colors?",
+        "options": {
+            "A": "Kerala",
+            "B": "Tamil Nadu",
+            "C": "Andhra Pradesh",
+            "D": "Maharashtra"
+        },
+        "correct_answer": "B",
+        "description": "The Tanjore painting style originates from Tamil Nadu and is renowned for its rich colors, surface richness, and the extensive use of gold foil."
+    },
+    {
+        "s_no": 37,
+        "question": "The 'Natyashastra', a treatise on performing arts, was authored by which ancient Indian sage?",
+        "options": {
+            "A": "Bharata Muni",
+            "B": "Vyasa",
+            "C": "Panini",
+            "D": "Kalidasa"
+        },
+        "correct_answer": "A",
+        "description": "The 'Natyashastra' was authored by Bharata Muni, a foundational text for classical Indian dance, drama, and theatre, offering insights into performance techniques."
+    },
+    {
+        "s_no": 38,
+        "question": "The 'Kailasa Temple' at Ellora, carved out of a single rock, was constructed during the reign of which dynasty?",
+        "options": {
+            "A": "Maurya Dynasty",
+            "B": "Gupta Dynasty",
+            "C": "Rashtrakuta Dynasty",
+            "D": "Chola Dynasty"
+        },
+        "correct_answer": "C",
+        "description": "The Kailasa Temple at Ellora was built during the Rashtrakuta Dynasty, and it is a remarkable feat of architecture, carved out of a single monolithic rock."
+    },
+    {
+        "s_no": 39,
+        "question": "Which classical dance form is known for its unique combination of rhythmic footwork, hand gestures, and facial expressions, originating from Andhra Pradesh?",
+        "options": {
+            "A": "Bharatnatyam",
+            "B": "Kathak",
+            "C": "Kuchipudi",
+            "D": "Manipuri"
+        },
+        "correct_answer": "C",
+        "description": "Kuchipudi, originating from Andhra Pradesh, is known for its expressive facial gestures, rhythmic footwork, and vibrant storytelling through dance."
+    },
+    {
+        "s_no": 40,
+        "question": "Which of the following architectural styles is known for its unique blend of Indo-Islamic architecture and was prominent during the Mughal Empire?",
+        "options": {
+            "A": "Dravidian Architecture",
+            "B": "Indo-Saracenic Architecture",
+            "C": "Rajput Architecture",
+            "D": "Hoysala Architecture"
+        },
+        "correct_answer": "B",
+        "description": "Indo-Saracenic architecture is characterized by the blend of Hindu, Islamic, and Western architectural styles, prominent during the Mughal Empire."
+    },
+    {
+        "s_no": 41,
+        "question": "Which ancient Indian text, attributed to Sage Patanjali, is regarded as the foundational work for classical dance and drama?",
+        "options": {
+            "A": "Yoga Sutras",
+            "B": "Abhinaya Darpana",
+            "C": "Natya Shastra",
+            "D": "Kamasutra"
+        },
+        "correct_answer": "C",
+        "description": "The 'Natya Shastra', attributed to Sage Bharata Muni, is the foundational text for classical dance and drama in India, outlining performance techniques and rituals."
+    },
+    {
+        "s_no": 42,
+        "question": "The 'Chola bronzes', one of the finest examples of South Indian art, represent which Hindu deity?",
+        "options": {
+            "A": "Vishnu",
+            "B": "Shiva",
+            "C": "Krishna",
+            "D": "Durga"
+        },
+        "correct_answer": "B",
+        "description": "The Chola bronzes are renowned for their depiction of Lord Shiva, particularly in his Nataraja form, and are regarded as masterpieces of South Indian art."
+    },
+    {
+        "s_no": 45,
+        "question": "Which ruler is known for commissioning the construction of the magnificent 'Qutb Minar' in Delhi, one of India's most famous landmarks?",
+        "options": {
+            "A": "Shah Jahan",
+            "B": "Akbar",
+            "C": "Qutb-ud-din Aibak",
+            "D": "Aurangzeb"
+        },
+        "correct_answer": "C",
+        "description": "Qutb-ud-din Aibak, the founder of the Delhi Sultanate, commissioned the construction of the Qutb Minar in 1193."
+    },
+    {
+        "s_no": 46,
+        "question": "Which medieval Indian empire is known for its contributions to the development of the 'Khajuraho Group of Monuments', characterized by intricate erotic sculptures?",
+        "options": {
+            "A": "Gupta Empire",
+            "B": "Chola Empire",
+            "C": "Mughal Empire",
+            "D": "Chandela Dynasty"
+        },
+        "correct_answer": "D",
+        "description": "The Khajuraho Temples, famous for their detailed erotic sculptures, were built by the Chandela Dynasty between 950 and 1050 AD."
+    },
+    {
+        "s_no": 47,
+        "question": "The tradition of 'Todi' and 'Marwa' are associated with which branch of Indian classical music?",
+        "options": {
+            "A": "Hindustani Classical",
+            "B": "Carnatic Classical",
+            "C": "Dhrupad",
+            "D": "Folk Music"
+        },
+        "correct_answer": "A",
+        "description": "'Todi' and 'Marwa' are ragas in Hindustani classical music, known for their unique emotional expressions."
+    },
+    {
+        "s_no": 48,
+        "question": "The famous 'Sanchi Stupa', an important Buddhist monument, was constructed during the reign of which Mauryan Emperor?",
+        "options": {
+            "A": "Chandragupta Maurya",
+            "B": "Bindusara",
+            "C": "Ashoka",
+            "D": "Bimbisara"
+        },
+        "correct_answer": "C",
+        "description": "The Sanchi Stupa was built during the reign of Emperor Ashoka in the 3rd century BCE, marking an important Buddhist site."
+    },
+    {
+        "s_no": 49,
+        "question": "The term 'Ganga-Jamuni Tehzeeb' refers to the syncretic culture and art that evolved in which region of India?",
+        "options": {
+            "A": "Bengal",
+            "B": "Delhi and Uttar Pradesh",
+            "C": "Madhya Pradesh",
+            "D": "Tamil Nadu"
+        },
+        "correct_answer": "B",
+        "description": "'Ganga-Jamuni Tehzeeb' describes the syncretic culture that evolved in the region of Delhi and Uttar Pradesh, blending Hindu and Muslim traditions."
+    },
+    {
+        "s_no": 50,
+        "question": "The famous 'Ragamala' paintings, depicting the mood of various ragas, belong to which style of Indian art?",
+        "options": {
+            "A": "Mughal Miniature",
+            "B": "Rajput Miniature",
+            "C": "Pahari Painting",
+            "D": "Madhubani"
+        },
+        "correct_answer": "B",
+        "description": "Ragamala paintings, depicting the moods of various ragas, belong to the Rajput miniature painting tradition."
+    },
+    {
+        "s_no": 51,
+        "question": "Which of the following is a popular Indian dance form known for its graceful movements and hand gestures?",
+        "options": {
+            "A": "Bharatnatyam",
+            "B": "Basketball",
+            "C": "Cricket",
+            "D": "Football"
+        },
+        "correct_answer": "A",
+        "description": "Bharatnatyam is a classical dance form from Tamil Nadu, known for its graceful movements, intricate footwork, and expressive hand gestures."
+    },
+    {
+        "s_no": 52,
+        "question": "Which famous Indian monument is known as the symbol of love and is located in Agra?",
+        "options": {
+            "A": "Qutub Minar",
+            "B": "Red Fort",
+            "C": "Taj Mahal",
+            "D": "India Gate"
+        },
+        "correct_answer": "C",
+        "description": "The Taj Mahal, located in Agra, is one of the most iconic monuments in India and is known as the symbol of eternal love."
+    },
+    {
+        "s_no": 53,
+        "question": "Which traditional art form from Rajasthan involves painting on cloth and is used to tell stories of gods and kings?",
+        "options": {
+            "A": "Madhubani",
+            "B": "Warli",
+            "C": "Phad",
+            "D": "Kalamkari"
+        },
+        "correct_answer": "C",
+        "description": "Phad painting is a traditional art form from Rajasthan, used to depict religious stories and legends on cloth."
+    },
+    {
+        "s_no": 54,
+        "question": "Which color is commonly used in the traditional art form 'Warli' painting from Maharashtra?",
+        "options": {
+            "A": "Red",
+            "B": "Blue",
+            "C": "White",
+            "D": "Yellow"
+        },
+        "correct_answer": "C",
+        "description": "Warli painting, a tribal art form from Maharashtra, primarily uses white color on a mud base to depict daily life, animals, and nature."
+    },
+    {
+        "s_no": 55,
+        "question": "Which Indian festival is famous for the tradition of painting colorful pictures on walls and floors?",
+        "options": {
+            "A": "Diwali",
+            "B": "Holi",
+            "C": "Onam",
+            "D": "Pongal"
+        },
+        "correct_answer": "B",
+        "description": "Holi, the festival of colors, is known for its tradition of painting colorful pictures and rangolis on walls and floors."
+    },
+    {
+        "s_no": 56,
+        "question": "Which popular dance form from Kerala involves colorful costumes and masks to tell stories?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Bharatnatyam",
+            "C": "Kuchipudi",
+            "D": "Odissi"
+        },
+        "correct_answer": "A",
+        "description": "Kathakali is a classical dance form from Kerala, renowned for its elaborate costumes, vibrant makeup, and storytelling through dance."
+    },
+    {
+        "s_no": 57,
+        "question": "Which of the following is a famous Indian painting style from Bihar known for its intricate patterns?",
+        "options": {
+            "A": "Madhubani",
+            "B": "Warli",
+            "C": "Tanjore",
+            "D": "Pattachitra"
+        },
+        "correct_answer": "A",
+        "description": "Madhubani painting, originating from Bihar, is known for its intricate patterns, vibrant colors, and depiction of mythological themes."
+    },
+    {
+        "s_no": 58,
+        "question": "What is the name of the famous Indian temple art style known for grand sculptures and intricate carvings?",
+        "options": {
+            "A": "Madhubani",
+            "B": "Panchaloha",
+            "C": "Kailasa Temple",
+            "D": "Bronze casting"
+        },
+        "correct_answer": "D",
+        "description": "Bronze casting is a famous temple art style used for creating grand sculptures and intricate carvings, especially in South Indian temples."
+    },
+    {
+        "s_no": 59,
+        "question": "Which famous Indian musician is known for playing the sitar and spreading Indian classical music worldwide?",
+        "options": {
+            "A": "Ravi Shankar",
+            "B": "Lata Mangeshkar",
+            "C": "M.S. Subbulakshmi",
+            "D": "A.R. Rahman"
+        },
+        "correct_answer": "A",
+        "description": "Ravi Shankar was a legendary sitar virtuoso who played a key role in popularizing Indian classical music worldwide."
+    },
+    {
+        "s_no": 60,
+        "question": "The 'Khajuraho Temples', famous for their intricate erotic sculptures, are located in which state of India?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Madhya Pradesh",
+            "C": "Haryana",
+            "D": "Bihar"
+        },
+        "correct_answer": "B",
+        "description": "The Khajuraho Temples, located in Madhya Pradesh, are famous for their exquisite erotic sculptures and are a UNESCO World Heritage site."
+    },
+    {
+        "s_no": 61,
+        "question": "Which classical dance form of India originated in Tamil Nadu and is known for its graceful movements and facial expressions?",
+        "options": {
+            "A": "Bharatnatyam",
+            "B": "Kathak",
+            "C": "Odissi",
+            "D": "Kuchipudi"
+        },
+        "correct_answer": "A",
+        "description": "Bharatnatyam is a classical dance form originating from Tamil Nadu, known for its graceful movements and expressive facial gestures."
+    },
+    {
+        "s_no": 62,
+        "question": "Which famous Indian painting style from Odisha is known for intricate religious paintings on cloth?",
+        "options": {
+            "A": "Warli",
+            "B": "Pattachitra",
+            "C": "Madhubani",
+            "D": "Tanjore"
+        },
+        "correct_answer": "B",
+        "description": "Pattachitra is a traditional painting style from Odisha, known for its intricate designs and religious motifs painted on cloth."
+    },
+    {
+        "s_no": 63,
+        "question": "What is the name of the famous Indian instrument that is played by plucking strings, often used in classical music?",
+        "options": {
+            "A": "Tabla",
+            "B": "Sitar",
+            "C": "Guitar",
+            "D": "Drums"
+        },
+        "correct_answer": "B",
+        "description": "The sitar is a famous Indian string instrument used in classical music, particularly in Hindustani classical traditions."
+    },
+    {
+        "s_no": 64,
+        "question": "Which festival in India is known for the tradition of painting beautiful Rangolis at homes?",
+        "options": {
+            "A": "Diwali",
+            "B": "Holi",
+            "C": "Eid",
+            "D": "Christmas"
+        },
+        "correct_answer": "A",
+        "description": "Diwali, the festival of lights, is celebrated with the tradition of creating beautiful rangolis at homes."
+    },
+    {
+        "s_no": 65,
+        "question": "Which famous Indian monument is known for its ancient rock-cut temples and is located in Maharashtra?",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Taj Mahal",
+            "C": "Qutub Minar",
+            "D": "Gateway of India"
+        },
+        "correct_answer": "A",
+        "description": "The Ajanta Caves in Maharashtra are famous for their ancient rock-cut temples and stunning murals."
+    },
+    {
+        "s_no": 66,
+        "question": "Which of the following is an ancient Indian style of painting that uses a lot of bright colors and is often seen in temples?",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Tanjore",
+            "D": "Fresco"
+        },
+        "correct_answer": "D",
+        "description": "Fresco painting is an ancient art style, often found in temples, where bright colors are used to depict religious and cultural themes."
+    },
+    {
+        "s_no": 67,
+        "question": "Which dance form is performed by both men and women and tells the story of Lord Krishna's life, originating in the state of Manipur?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Bharatnatyam",
+            "C": "Manipuri",
+            "D": "Kathak"
+        },
+        "correct_answer": "C",
+        "description": "Manipuri dance, originating in the state of Manipur, tells stories from Lord Krishna's life and is performed by both men and women."
+    },
+    {
+        "s_no": 68,
+        "question": "Which state is famous for its backwaters and houseboats, which are an important part of its culture and tourism?",
+        "options": {
+            "A": "Goa",
+            "B": "Kerala",
+            "C": "Uttarakhand",
+            "D": "Maharashtra"
+        },
+        "correct_answer": "B",
+        "description": "Kerala is renowned for its picturesque backwaters and houseboats, which are major attractions for tourism."
+    },
+    {
+        "s_no": 69,
+        "question": "Which of the following is a famous Indian folk art that is done using natural dyes and is often seen on cloth?",
+        "options": {
+            "A": "Kalamkari",
+            "B": "Warli",
+            "C": "Phad",
+            "D": "Madhubani"
+        },
+        "correct_answer": "A",
+        "description": "Kalamkari is an ancient art form that involves the use of natural dyes to create intricate designs, often seen on cloth and depicting religious themes."
+    },
+    {
+        "s_no": 70,
+        "question": "Which famous Indian temple is known for its towering spires and elaborate carvings, particularly in southern India?",
+        "options": {
+            "A": "Kailasa Temple",
+            "B": "Brihadeeswarar Temple",
+            "C": "Golden Temple",
+            "D": "Akshardham Temple"
+        },
+        "correct_answer": "B",
+        "description": "Brihadeeswarar Temple, located in Tamil Nadu, is known for its towering spires and elaborate carvings, and is a UNESCO World Heritage site."
+    },
+    {
+        "s_no": 71,
+        "question": "Which Indian classical dance form was traditionally performed in temples and is known for its graceful movements and intricate footwork?",
+        "options": {
+            "A": "Bharatnatyam",
+            "B": "Kathakali",
+            "C": "Kuchipudi",
+            "D": "Manipuri"
+        },
+        "correct_answer": "A",
+        "description": "Bharatnatyam, originating from Tamil Nadu, was traditionally performed in temples and is known for its graceful movements and intricate footwork."
+    },
+    {
+        "s_no": 72,
+        "question": "The famous 'Mysore Palace' is located in which Indian state?",
+        "options": {
+            "A": "Karnataka",
+            "B": "Maharashtra",
+            "C": "Rajasthan",
+            "D": "Uttar Pradesh"
+        },
+        "correct_answer": "A",
+        "description": "The Mysore Palace is located in Karnataka and is a famous historical monument known for its architectural splendor."
+    },
+    {
+        "s_no": 73,
+        "question": "Which ancient Indian text on performing arts was written by the sage Bharata Muni?",
+        "options": {
+            "A": "Natyashastra",
+            "B": "Vedas",
+            "C": "Ramayana",
+            "D": "Mahabharata"
+        },
+        "correct_answer": "A",
+        "description": "The 'Natyashastra' is an ancient Indian text on performing arts, written by the sage Bharata Muni, and is considered the foundational work on Indian dance and drama."
+    },
+    {
+        "s_no": 74,
+        "question": "Which famous Indian artist is known for his modernist paintings and is regarded as the father of modern Indian art?",
+        "options": {
+            "A": "Rabindranath Tagore",
+            "B": "M.F. Husain",
+            "C": "Amrita Sher-Gil",
+            "D": "Raja Ravi Varma"
+        },
+        "correct_answer": "D",
+        "description": "Raja Ravi Varma is regarded as the father of modern Indian art, known for his beautiful depictions of Indian mythology and culture."
+    },
+    {
+        "s_no": 75,
+        "question": "Which classical dance form of India is performed by male dancers and is famous for its colorful masks and dramatic storytelling?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Kuchipudi",
+            "C": "Sattriya",
+            "D": "Manipuri"
+        },
+        "correct_answer": "A",
+        "description": "Kathakali, performed by male dancers, is famous for its colorful masks, dramatic storytelling, and vibrant costumes."
+    },
+    {
+        "s_no": 76,
+        "question": "The 'Konark Sun Temple' is located in which Indian state?",
+        "options": {
+            "A": "Odisha",
+            "B": "Tamil Nadu",
+            "C": "Madhya Pradesh",
+            "D": "Karnataka"
+        },
+        "correct_answer": "A",
+        "description": "The Konark Sun Temple, located in Odisha, is a UNESCO World Heritage site and is known for its architectural grandeur and unique design."
+    },
+    {
+        "s_no": 77,
+        "question": "Which ancient Indian site is known for its stunning rock-cut temples, sculptures, and Buddhist caves?",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Khajuraho Temples",
+            "C": "Elephanta Caves",
+            "D": "Meghalaya Caves"
+        },
+        "correct_answer": "A",
+        "description": "The Ajanta Caves in Maharashtra are known for their stunning rock-cut temples, intricate sculptures, and murals depicting the life of Buddha."
+    },
+    {
+        "s_no": 78,
+        "question": "Which famous Indian festival is celebrated with the traditional dance form of Garba?",
+        "options": {
+            "A": "Diwali",
+            "B": "Navratri",
+            "C": "Holi",
+            "D": "Pongal"
+        },
+        "correct_answer": "B",
+        "description": "Navratri is celebrated with the traditional dance form of Garba, especially in Gujarat, marking the victory of good over evil."
+    },
+    {
+        "s_no": 79,
+        "question": "Which Indian city is famous for the 'Jantar Mantar' astronomical observatory, known for its precision instruments?",
+        "options": {
+            "A": "Jaipur",
+            "B": "Delhi",
+            "C": "Ujjain",
+            "D": "Bhopal"
+        },
+        "correct_answer": "A",
+        "description": "The Jantar Mantar in Jaipur is famous for its astronomical instruments, built in the 18th century, used to observe celestial bodies."
+    },
+    {
+        "s_no": 80,
+        "question": "The famous 'Kailasa Temple' is located in which UNESCO World Heritage site?",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Ellora Caves",
+            "C": "Sanchi Stupa",
+            "D": "Bodh Gaya"
+        },
+        "correct_answer": "B",
+        "description": "The Kailasa Temple is located in the Ellora Caves and is known for its massive monolithic structure and intricate carvings."
+    },
+    {
+        "s_no": 81,
+        "question": "Which Indian state is famous for its folk dance called 'Bhangra', especially during the festival of Baisakhi?",
+        "options": {
+            "A": "Punjab",
+            "B": "Uttar Pradesh",
+            "C": "Haryana",
+            "D": "Maharashtra"
+        },
+        "correct_answer": "A",
+        "description": "Bhangra is a lively folk dance form from Punjab, typically performed during the Baisakhi festival to celebrate the harvest season."
+    },
+    {
+        "s_no": 82,
+        "question": "Which famous Indian painting style involves intricate patterns and is done using natural dyes, often seen on the walls of tribal homes?",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Pattachitra",
+            "D": "Phad"
+        },
+        "correct_answer": "A",
+        "description": "Warli painting is a traditional tribal art form from Maharashtra, using natural dyes to create intricate geometric patterns and nature-themed designs."
+    },
+    {
+        "s_no": 83,
+        "question": "Which classical dance form originated in the temples of Tamil Nadu and is known for its rhythmic footwork and graceful poses?",
+        "options": {
+            "A": "Kuchipudi",
+            "B": "Bharatnatyam",
+            "C": "Kathak",
+            "D": "Odissi"
+        },
+        "correct_answer": "B",
+        "description": "Bharatnatyam, originating from Tamil Nadu, is known for its rhythmic footwork, graceful poses, and expressions that tell stories."
+    },
+    {
+        "s_no": 84,
+        "question": "Which famous Indian artist is known for his 'Pahari' miniature paintings, depicting royal courts and religious themes?",
+        "options": {
+            "A": "Raja Ravi Varma",
+            "B": "M.F. Husain",
+            "C": "Nandalal Bose",
+            "D": "Shiv Kumar"
+        },
+        "correct_answer": "A",
+        "description": "Raja Ravi Varma is known for his 'Pahari' miniature paintings that depict royal courts, religious themes, and mythological stories."
+    },
+    {
+        "s_no": 85,
+        "question": "Which ancient Indian site is famous for its erotic sculptures, which are part of the temples dedicated to Lord Shiva?",
+        "options": {
+            "A": "Khajuraho",
+            "B": "Ajanta Caves",
+            "C": "Kailasa Temple",
+            "D": "Konark Temple"
+        },
+        "correct_answer": "A",
+        "description": "Khajuraho is famous for its temples adorned with intricate erotic sculptures, symbolizing the celebration of life and love."
+    },
+    {
+        "s_no": 86,
+        "question": "Which famous art form from Tamil Nadu involves painting on wet clay surfaces, often depicting deities and natural scenes?",
+        "options": {
+            "A": "Kalamkari",
+            "B": "Tanjore painting",
+            "C": "Madhubani",
+            "D": "Channapatna"
+        },
+        "correct_answer": "B",
+        "description": "Tanjore painting is a traditional art form from Tamil Nadu, involving the use of wet clay surfaces to create detailed depictions of deities and nature."
+    },
+    {
+        "s_no": 87,
+        "question": "Which famous dance form is known for its combination of graceful footwork, hand gestures, and facial expressions, originating from North India?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Odissi",
+            "D": "Kuchipudi"
+        },
+        "correct_answer": "A",
+        "description": "Kathak, a classical dance form from North India, is renowned for its graceful footwork, intricate hand gestures, and expressive facial expressions."
+    },
+    {
+        "s_no": 88,
+        "question": "Which ancient Indian sculpture style is known for its life-size stone carvings of Hindu gods and goddesses, particularly seen in the temples of the Chola dynasty?",
+        "options": {
+            "A": "Bronze casting",
+            "B": "Terracotta",
+            "C": "Stone carvings",
+            "D": "Wooden sculptures"
+        },
+        "correct_answer": "A",
+        "description": "Bronze casting is a famous sculpture style from the Chola dynasty, particularly known for life-size stone carvings of Hindu deities."
+    },
+    {
+        "s_no": 89,
+        "question": "Which Indian temple is known for its grand architecture and is dedicated to Lord Vishnu, located in the state of Tamil Nadu?",
+        "options": {
+            "A": "Brihadeeswarar Temple",
+            "B": "Kailasa Temple",
+            "C": "Meghnath Temple",
+            "D": "Shore Temple"
+        },
+        "correct_answer": "A",
+        "description": "Brihadeeswarar Temple, located in Tamil Nadu, is a grand architectural marvel dedicated to Lord Vishnu."
+    },
+    {
+        "s_no": 90,
+        "question": "Which traditional Indian painting style is known for its use of dots and intricate geometric patterns, often seen in Gujarat?",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Mandala",
+            "D": "Tanjore"
+        },
+        "correct_answer": "C",
+        "description": "Mandala is a traditional painting style from Gujarat known for intricate geometric patterns and the use of dots."
+    },
+    {
+        "s_no": 91,
+        "question": "Which temple in India is famous for its unique architecture, with a series of intricately carved steps leading to its entrance?",
+        "options": {
+            "A": "Sun Temple, Konark",
+            "B": "Sanchi Stupa",
+            "C": "Jagannath Temple, Puri",
+            "D": "Ramanathaswamy Temple"
+        },
+        "correct_answer": "A",
+        "description": "The Sun Temple at Konark is renowned for its unique architectural design, featuring intricately carved steps leading to its entrance."
+    },
+    {
+        "s_no": 92,
+        "question": "Which historical Indian monument is a large red sandstone structure built by Emperor Akbar in Delhi?",
+        "options": {
+            "A": "Qutub Minar",
+            "B": "Red Fort",
+            "C": "Taj Mahal",
+            "D": "India Gate"
+        },
+        "correct_answer": "B",
+        "description": "The Red Fort in Delhi, built by Emperor Akbar, is a grand historical monument made of red sandstone."
+    },
+    {
+        "s_no": 93,
+        "question": "Which traditional art form from Karnataka involves painting on wooden panels, using gold foil and bright colors, often depicting Hindu gods?",
+        "options": {
+            "A": "Madhubani",
+            "B": "Tanjore",
+            "C": "Pattachitra",
+            "D": "Channapatna"
+        },
+        "correct_answer": "B",
+        "description": "Tanjore painting from Karnataka is a traditional art form that uses gold foil and bright colors to depict Hindu deities."
+    },
+    {
+        "s_no": 94,
+        "question": "Which classical dance form originated in the temples of Odisha and is known for its graceful movements and devotion to Lord Jagannath?",
+        "options": {
+            "A": "Kathak",
+            "B": "Odissi",
+            "C": "Kuchipudi",
+            "D": "Bharatnatyam"
+        },
+        "correct_answer": "B",
+        "description": "Odissi is a classical dance form from Odisha, known for its graceful movements and devotion to Lord Jagannath."
+    },
+    {
+        "s_no": 95,
+        "question": "Which famous Indian artist's work blends traditional Indian themes with Western techniques, often using bold colors and abstract forms?",
+        "options": {
+            "A": "M.F. Husain",
+            "B": "Rabindranath Tagore",
+            "C": "Amrita Sher-Gil",
+            "D": "Raja Ravi Varma"
+        },
+        "correct_answer": "A",
+        "description": "M.F. Husain is a renowned Indian artist whose work blends traditional Indian themes with Western techniques, often featuring bold colors and abstract forms."
+    },
+    {
+        "s_no": 96,
+        "question": "Which art form from Rajasthan involves painting on cloth with elaborate borders and mythological themes, often created by local artisans?",
+        "options": {
+            "A": "Phad painting",
+            "B": "Warli painting",
+            "C": "Pattachitra",
+            "D": "Tanjore painting"
+        },
+        "correct_answer": "A",
+        "description": "Phad painting is a traditional art form from Rajasthan, involving the painting of mythological themes on cloth with elaborate borders."
+    },
+    {
+        "s_no": 97,
+        "question": "Which temple in India is famous for its large dome, intricate carvings, and is dedicated to Lord Shiva in the state of Maharashtra?",
+        "options": {
+            "A": "Elephanta Caves",
+            "B": "Kailasa Temple",
+            "C": "Meghnath Temple",
+            "D": "Sun Temple"
+        },
+        "correct_answer": "B",
+        "description": "The Kailasa Temple in Maharashtra is famous for its large dome and intricate carvings, dedicated to Lord Shiva."
+    },
+    {
+        "s_no": 98,
+        "question": "Which Indian state is known for its folk dance called 'Lavani', often performed during festivals and celebrations?",
+        "options": {
+            "A": "Maharashtra",
+            "B": "Kerala",
+            "C": "Tamil Nadu",
+            "D": "Punjab"
+        },
+        "correct_answer": "A",
+        "description": "Lavani is a traditional folk dance from Maharashtra, performed during festivals and celebrations, known for its energetic movements."
+    },
+    {
+        "s_no": 99,
+        "question": "Which historical Indian site is famous for its grand Stupa and is located in the state of Madhya Pradesh?",
+        "options": {
+            "A": "Sanchi",
+            "B": "Ajanta Caves",
+            "C": "Konark Temple",
+            "D": "Khajuraho"
+        },
+        "correct_answer": "A",
+        "description": "Sanchi, located in Madhya Pradesh, is famous for its grand Stupa and is a UNESCO World Heritage site."
+    },    
+    {
+        "s_no": 100,
+        "question": "Identify the architectural style of the temple in this image. ![Image](https://upload.wikimedia.org/wikipedia/commons/e/ed/Brihadeeswarar_Temple_01.jpg)",
+        "options": [
+        "Dravidian",
+        "Nagara",
+        "Vesara",
+        "Indo-Islamic"
+        ],
+        "answer": "Dravidian"
+    },
+    {
+        "s_no": 101,
+        "question": "What is the name of the famous dance form depicted in this image? ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5e/Bharatnatyam_performance.jpg)",
+        "options": [
+        "Kathak",
+        "Bharatnatyam",
+        "Kathakali",
+        "Kuchipudi"
+        ],
+        "answer": "Bharatnatyam"
+    },
+    {
+        "s_no": 102,
+        "question": "Which ancient Indian art form is depicted in this image of Warli painting? ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5f/Warli_art_3.jpg)",
+        "options": [
+        "Warli",
+        "Madhubani",
+        "Tanjore",
+        "Pattachitra"
+        ],
+        "answer": "Warli"
+    },
+    {
+        "s_no": 103,
+        "question": "Which historical monument is shown in this image? ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a7/Red_Fort_View.jpg)",
+        "options": [
+        "Qutub Minar",
+        "Red Fort",
+        "Taj Mahal",
+        "India Gate"
+        ],
+        "answer": "Red Fort"
+    },
+    {
+        "s_no": 104,
+        "question": "Which famous Indian temple is represented in this image? ![Image](https://upload.wikimedia.org/wikipedia/commons/1/14/Konark_Sun_Temple_2015.jpg)",
+        "options": [
+        "Kailasa Temple",
+        "Konark Sun Temple",
+        "Meghnath Temple",
+        "Shore Temple"
+        ],
+        "answer": "Konark Sun Temple"
+    },
+    {
+        "s_no": 105,
+        "question": "Identify the traditional dance form of India shown in this image. ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f5/ODISSI_Dance.jpg)",
+        "options": [
+        "Odissi",
+        "Kathak",
+        "Kuchipudi",
+        "Bharatnatyam"
+        ],
+        "answer": "Odissi"
+    },
+    {
+        "s_no": 106,
+        "question": "What is the name of the famous painting style depicted in this image? ![Image](https://upload.wikimedia.org/wikipedia/commons/0/08/Madhubani_Painting.jpg)",
+        "options": [
+        "Madhubani",
+        "Warli",
+        "Pattachitra",
+        "Tanjore"
+        ],
+        "answer": "Madhubani"
+    },
+    {
+        "s_no": 107,
+        "question": "Which ancient Indian site is shown in this image, famous for its rock-cut architecture? ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0d/Elephanta_caves.jpg)",
+        "options": [
+        "Ajanta Caves",
+        "Ellora Caves",
+        "Elephanta Caves",
+        "Sanchi Stupa"
+        ],
+        "answer": "Elephanta Caves"
+    },
+    {
+        "s_no": 108,
+        "question": "This temple is a famous example of Chola architecture. Identify it. ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e3/Brihadeeswarar_Temple_%28Thanjavur%29.jpg)",
+        "options": [
+        "Kailasa Temple",
+        "Brihadeeswarar Temple",
+        "Konark Sun Temple",
+        "Sun Temple, Modhera"
+        ],
+        "answer": "Brihadeeswarar Temple"
+    },
+    {
+        "s_no": 109,
+        "question": "Which Indian dance form is shown in this image, known for its elaborate movements and rhythmic footwork? ![Image](https://upload.wikimedia.org/wikipedia/commons/0/05/Kathak_performance.jpg)",
+        "options": [
+        "Kathak",
+        "Kathakali",
+        "Bharatnatyam",
+        "Kuchipudi"
+        ],
+        "answer": "Kathak"
+    },
+    {
+        "s_no": 110,
+        "question": "Which famous Indian artist's work is depicted in this image? ![Image](https://upload.wikimedia.org/wikipedia/commons/0/09/Amrita_Shergil.jpg)",
+        "options": [
+        "M.F. Husain",
+        "Amrita Sher-Gil",
+        "Raja Ravi Varma",
+        "Nandalal Bose"
+        ],
+        "answer": "Amrita Sher-Gil"
+    },
+    {
+        "s_no": 111,
+        "question": "This is a famous painting style from Rajasthan. What is it called? ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3f/Phad_painting.jpg)",
+        "options": [
+        "Madhubani",
+        "Warli",
+        "Phad",
+        "Pattachitra"
+        ],
+        "answer": "Phad"
+    },
+    {
+        "s_no": 112,
+        "question": "Which Indian temple is shown in this image, located in the state of Gujarat? ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2c/Sun_Temple_Modhera.jpg)",
+        "options": [
+        "Kailasa Temple",
+        "Meghnath Temple",
+        "Sun Temple, Modhera",
+        "Sanchi Stupa"
+        ],
+        "answer": "Sun Temple, Modhera"
+    },
+    {
+        "s_no": 113,
+        "question": "Identify the famous painting style of South India shown in this image. ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ab/Tanjore_painting.jpg)",
+        "options": [
+        "Tanjore",
+        "Madhubani",
+        "Pattachitra",
+        "Warli"
+        ],
+        "answer": "Tanjore"
+    },
+    {
+        "s_no": 114,
+        "question": "This is a famous site associated with Buddhist culture. Identify it. ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1c/Sanchi_Stupa.jpg)",
+        "options": [
+        "Ajanta Caves",
+        "Sanchi Stupa",
+        "Bodh Gaya",
+        "Kailasa Temple"
+        ],
+        "answer": "Sanchi Stupa"
+    },
+    {
+        "s_no": 115,
+        "question": "This is a famous image of a traditional folk dance. What is it called? ![Image](https://upload.wikimedia.org/wikipedia/commons/1/17/Lasya.jpg)",
+        "options": [
+        "Bhangra",
+        "Garba",
+        "Lavani",
+        "Dandiya"
+        ],
+        "answer": "Garba"
+    },
+    {
+        "s_no": 116,
+        "question": "Which Indian sculpture style is shown in this image of a large stone idol? ![Image](https://upload.wikimedia.org/wikipedia/commons/3/35/Kailasa_temple_%28Ellora%29.jpg)",
+        "options": [
+        "Bronze casting",
+        "Stone carving",
+        "Terracotta",
+        "Wooden sculpture"
+        ],
+        "answer": "Stone carving"
+    },
+    {
+        "s_no": 117,
+        "question": "This famous image depicts a traditional temple in India. Identify it. ![Image](https://upload.wikimedia.org/wikipedia/commons/7/74/Konark_sun_temple.jpg)",
+        "options": [
+        "Konark Sun Temple",
+        "Brihadeeswarar Temple",
+        "Jagannath Temple",
+        "Meenakshi Temple"
+        ],
+        "answer": "Konark Sun Temple"
+    },
+    {
+        "s_no": 118,
+        "question": "Which famous historical structure is depicted in this image, showcasing Mughal architecture? ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d7/Taj_Mahal.jpg)",
+        "options": [
+        "Red Fort",
+        "Taj Mahal",
+        "Qutub Minar",
+        "Humayun's Tomb"
+        ],
+        "answer": "Taj Mahal"
+    },
+    {
+        "s_no": 119,
+        "question": "Identify the ancient rock-cut temples shown in this image. ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ajanta_caves.jpg)",
+        "options": [
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Meghalaya Caves",
+        "Sanchi Stupa"
+        ],
+        "answer": "Ajanta Caves"
+    },
+    {
+        "s_no": 120,
+        "question": "This image represents the traditional art form of painting from Odisha. What is it called? ![Image](https://upload.wikimedia.org/wikipedia/commons/5/56/Pattachitra_Odisha.jpg)",
+        "options": [
+        "Warli",
+        "Madhubani",
+        "Pattachitra",
+        "Tanjore"
+        ],
+        "answer": "Pattachitra"
+    }
+    ]
+      

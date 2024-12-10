@@ -1,0 +1,15 @@
+
+#main{
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+    overscroll-behavior-x: none;
+}
+
+.section{
+    display: flex;
+    height: 100vh;
+    scroll-snap-align: start;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

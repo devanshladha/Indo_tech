@@ -1,0 +1,179 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/*-------------common css------------*/
+
+body{
+    color: #764b36;
+    background-color: #F5F5DC;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+#preloader{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+#loader_img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+#page{
+    display: none;
+}
+
+a{
+    text-decoration: none;
+    color: #764b36;
+}
+
+.center{
+    justify-content: center;
+}
+
+.items-center{
+    justify-items: center;
+}
+
+.items-left{
+    justify-items: left;
+}
+
+.self-center{
+    justify-self: center;
+    align-self: center;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-90{
+    width: 90%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+button{
+    background-color: #764b36;
+    color: #F5F5DC;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 0px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.img{
+    width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
+
+/*----------------nav----------------*/
+
+#nav{
+    padding: 10px;
+    color: #764b36;
+    background-color: #F5F5DC;
+    display: inline-flex;
+    width: 100vw;
+    position: fixed;
+    top:0px;
+    align-items: center;
+    height: 50px;
+    box-shadow: 1px 0px 5px 0px dimgray;
+    z-index: 100;
+}
+
+#left_nav{
+
+}
+
+#right_nav{
+    position: fixed;
+    right: 20px;
+    display: inline-flex;
+    align-items: center;
+}
+
+#right_nav span{
+    padding: 5px 10px ;
+}
+
+#profile_div{
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    border-radius: 15px;
+    border: solid 2px #764b36;
+}
+
+#profile_div img{
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+
+/*--------------- main ----------------*/
+
+#main{
+    margin-top: 50px;
+    padding-top: 10px;
+    width: 100vw;
+}
+
+
+/* ---------- copy protection ----------*/
+
+.no-copy {
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none;    /* Firefox */
+    -ms-user-select: none;     /* Internet Explorer/Edge */
+    user-select: none;         /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+
+/*
+#764b36 (text)
+#9b4922
+#efe7dd (text)
+#d1774c
+#c88a36 (symbol)
+#d8a790
+
+
+
+
+
+#764b36 (text)
+#efe7dd (bg)
+#9b4922 (symbol)
+
+
+#efe7dd (text)
+#9b4922 (bg)
+#d8a790 (symbol)
+#764b36 (dark bg)
