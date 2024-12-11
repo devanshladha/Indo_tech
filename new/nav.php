@@ -1,25 +1,10 @@
-<!--     <div id="nav">
-        <div id="left_nav" class="">
-            <a href="http://localhost/projects/createX%2024/new/index.php"> <img src="skdns.png" alt="logo"> <h3>ART & CULTURE OF INDIA</h3></a>
-        </div>
-        <div id="right_nav" class="">
-            <span><a href="http://localhost/projects/createX%2024/new/games/games.php">Games</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/explore/explore.php">Explore</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/artefacts/artefacts.php">Artefacts</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/blog.php">Blog</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/join.php">Join</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/auth/Login3d.php">Login</a></span>
-        </div>
-    </div>
-     -->
-
 <?php
+error_reporting(0);
 session_start();
 include("connection.php");
 
 $loggedIn = false;
 $joinedCommunity = false;
-$profileImage = "src/3.png";
 $community = "0";
 if (isset($_SESSION['username'])) {
     $loggedIn = true;
@@ -38,16 +23,15 @@ if (isset($_SESSION['username'])) {
     }
 }
 ?>
-
     <div id="nav">
         <div id="left_nav" class="">
-            <a href="http://localhost/projects/createX%2024/new/index.php"><h3>ART & CULTURE OF INDIA</h3></a>
+            <a href="http://localhost/projects/createX%2024/new/index.php"><h2>CulturaConnect</h2></a>
         </div>
         <div id="right_nav" class="">
             <span><a href="http://localhost/projects/createX%2024/new/games/games.php">Games</a></span>
             <span><a href="http://localhost/projects/createX%2024/new/explore/explore.php">Explore</a></span>
             <span><a href="http://localhost/projects/createX%2024/new/artefacts/artefacts.php">Artefacts</a></span>
-            <span><a href="http://localhost/projects/createX%2024/new/blog.php">Blog</a></span>
+            <span><a href="https://cultura-connect.blogspot.com">Blog</a></span>
             <?php if ($community == 0): ?>
                 <span><a href="http://localhost/projects/createX%2024/new/auth/register.php">Join</a></span>
             <?php endif; ?>

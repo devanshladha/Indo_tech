@@ -140,7 +140,7 @@ $artisan = $result->fetch_assoc();
                 while ($sale = $sales_result->fetch_assoc()) {
                     echo "<li>
                             <span>" . $sale['name'] . "</span>
-                            <span>" . $sale['quantity'] . " sold</span>
+                            <span>" . $sale['quantity'] . "</span>
                             <span>" . $sale['sold'] . "</span>
                             <span>$" . ($sale['sold'])*$sale['price'] . "</span>
                           </li>";

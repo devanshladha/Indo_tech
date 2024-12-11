@@ -154,26 +154,3 @@ button{
     -ms-user-select: none;     /* Internet Explorer/Edge */
     user-select: none;         /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
 }
-
-
-/*
-#764b36 (text)
-#9b4922
-#efe7dd (text)
-#d1774c
-#c88a36 (symbol)
-#d8a790
-
-
-
-
-
-#764b36 (text)
-#efe7dd (bg)
-#9b4922 (symbol)
-
-
-#efe7dd (text)
-#9b4922 (bg)
-#d8a790 (symbol)
-#764b36 (dark bg)

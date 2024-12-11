@@ -6,11 +6,11 @@ include("../defination.php");
 if (!isset($_SESSION['username'])) {
     echo "
         <script>
-            location.replace('Login3d.php');
-            window.location.assign('Login3d.php')
+            location.replace('../auth/Login3d.php');
+            window.location.assign('../auth/Login3d.php')
         </script>
     ";
-    header("Location: Login3d.php");
+    header("Location: ../auth/Login3d.php");
 }
 
 $username = $_SESSION['username'];
@@ -52,9 +52,11 @@ $reward_points = $row['reward_points'];
         <section id="rules">
             <h2>Rules</h2>
             <ul>
-                <li>Play the quiz every day to earn points.</li>
-                <li>You can only play the quiz once per day.</li>
-                <li>Redeem your points for rewards from the "Redeem Points" section.</li>
+                <li>Once you click on the start now button the quiz starts.</li>
+                <li>You have <b>30 seconds</b> to answer the question.</li>
+                <li>On each correct answer you are awarded <b>5 points.</b></li>
+                <li>Onclick back & refresh in your browser the quiz is submitted automatically so don't do this.</li>
+                <li>On while found using unfair mean of practices you are banned for 3 month.</li>
             </ul>
         </section>
         <section id="history">
