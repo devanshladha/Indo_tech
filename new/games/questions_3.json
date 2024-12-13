@@ -1,0 +1,275 @@
+[
+    {
+        "s_no": 1,
+        "question": "What is the name of the famous dance form depicted in this image?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Murugashankari_Leo.jpg/609px-Murugashankari_Leo.jpg",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Kathakali",
+            "D": "Kuchipudi"
+        },
+        "correct_answer": "B",
+        "description": "Bharatnatyam is a classical dance form from Tamil Nadu, known for its graceful movements and intricate footwork."
+    },
+    {
+        "s_no": 2,
+        "question": "Which ancient Indian art form is depicted in this image of Warli painting?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_Warli_painting_by_Jivya_Soma_Mashe%2C_Thane_district.jpg/1200px-A_Warli_painting_by_Jivya_Soma_Mashe%2C_Thane_district.jpg",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Tanjore",
+            "D": "Pattachitra"
+        },
+        "correct_answer": "A",
+        "description": "Warli painting is a traditional tribal art form from Maharashtra, characterized by its use of geometric shapes and nature-inspired motifs."
+    },
+    {
+        "s_no": 3,
+        "question": "Which historical monument is shown in this image?",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7nfHrqJFAEa8I5C1NnXcLovtMG2qgpQchw&s",
+        "options": {
+            "A": "Qutub Minar",
+            "B": "Red Fort",
+            "C": "Taj Mahal",
+            "D": "India Gate"
+        },
+        "correct_answer": "B",
+        "description": "The Red Fort in Delhi is a symbol of India's rich history and Mughal architecture, built during the reign of Emperor Shah Jahan."
+    },
+    {
+        "s_no": 4,
+        "question": "Which famous Indian temple is represented in this image?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1200px-Konarka_Temple.jpg",
+        "options": {
+            "A": "Kailasa Temple",
+            "B": "Konark Sun Temple",
+            "C": "Meghnath Temple",
+            "D": "Shore Temple"
+        },
+        "correct_answer": "B",
+        "description": "The Konark Sun Temple in Odisha is an architectural marvel dedicated to the Sun God, known for its chariot-like structure and intricate carvings."
+    },
+    {
+        "s_no": 5,
+        "question": "Identify the traditional dance form of India shown in this image.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AM_Odissi_performance_in_2010s_02.jpg/413px-AM_Odissi_performance_in_2010s_02.jpg",
+        "options": {
+            "A": "Odissi",
+            "B": "Kathak",
+            "C": "Kuchipudi",
+            "D": "Bharatnatyam"
+        },
+        "correct_answer": "A",
+        "description": "Odissi is one of the classical dance forms of India, originating from Odisha, known for its graceful movements and temple-based performances."
+    },
+    {
+        "s_no": 6,
+        "question": "What is the name of the famous painting style depicted in this image?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Madhubani_Mahavidyas.jpg",
+        "options": {
+            "A": "Madhubani",
+            "B": "Warli",
+            "C": "Pattachitra",
+            "D": "Tanjore"
+        },
+        "correct_answer": "A",
+        "description": "Madhubani painting is a traditional art form from Bihar, characterized by intricate patterns and themes related to nature, folklore, and mythology."
+    },
+    {
+        "s_no": 7,
+        "question": "Which ancient Indian site is shown in this image, famous for its rock-cut architecture?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Elephanta_Caves_Trimurti.jpg/791px-Elephanta_Caves_Trimurti.jpg",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Ellora Caves",
+            "C": "Elephanta Caves",
+            "D": "Sanchi Stupa"
+        },
+        "correct_answer": "C",
+        "description": "The Elephanta Caves, located near Mumbai, are a group of rock-cut temples dedicated to the Hindu god Shiva, known for their intricate sculptures."
+    },
+    {
+        "s_no": 8,
+        "question": "This temple is a famous example of Chola architecture. Identify it.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Brihadesvara_Temple%2C_Tanjavur%2C_India_02.jpg/873px-Brihadesvara_Temple%2C_Tanjavur%2C_India_02.jpg",
+        "options": {
+            "A": "Kailasa Temple",
+            "B": "Brihadeeswarar Temple",
+            "C": "Konark Sun Temple",
+            "D": "Sun Temple, Modhera"
+        },
+        "correct_answer": "B",
+        "description": "The Brihadeeswarar Temple in Thanjavur is a masterpiece of Chola architecture, dedicated to Lord Shiva, and is renowned for its grand structure and intricate carvings."
+    },
+    {
+        "s_no": 9,
+        "question": "Which Indian dance form is shown in this image, known for its elaborate movements and rhythmic footwork?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kathak_contemporary_03.jpg/657px-Kathak_contemporary_03.jpg",
+        "options": {
+            "A": "Kathak",
+            "B": "Kathakali",
+            "C": "Bharatnatyam",
+            "D": "Kuchipudi"
+        },
+        "correct_answer": "A",
+        "description": "Kathak is a classical Indian dance form, originating from North India, known for its intricate footwork, expressive gestures, and storytelling."
+    },
+    {
+        "s_no": 10,
+        "question": "Which famous Indian artist's work is depicted in this image?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amrita_Sher-Gil_2.jpg/851px-Amrita_Sher-Gil_2.jpg",
+        "options": {
+            "A": "M.F. Husain",
+            "B": "Amrita Sher-Gil",
+            "C": "Raja Ravi Varma",
+            "D": "Nandalal Bose"
+        },
+        "correct_answer": "B",
+        "description": "Amrita Sher-Gil was an Indian painter, widely regarded as one of the most prominent women artists of the 20th century, known for her unique style blending Western and Indian influences."
+    },
+    {
+        "s_no": 11,
+        "question": "This is a famous painting style from Rajasthan. What is it called?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/WLANL_-_MicheleLovesArt_-_Tropenmuseum_-_Pabuji-Verteldoek_%284669-1%29.jpg",
+        "options": {
+            "A": "Madhubani",
+            "B": "Warli",
+            "C": "Phad",
+            "D": "Pattachitra"
+        },
+        "correct_answer": "C",
+        "description": "Phad painting is a traditional Rajasthani art form, characterized by its large-scale religious narratives painted on cloth, typically depicting gods and goddesses."
+    },
+    {
+        "s_no": 12,
+        "question": "Which Indian temple is shown in this image, located in the state of Gujarat?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Surya_mandhir.jpg/1200px-Surya_mandhir.jpg",
+        "options": {
+            "A": "Kailasa Temple",
+            "B": "Meghnath Temple",
+            "C": "Sun Temple, Modhera",
+            "D": "Sanchi Stupa"
+        },
+        "correct_answer": "C",
+        "description": "The Sun Temple at Modhera, Gujarat, is an ancient temple dedicated to the solar deity Surya, known for its intricate carvings and stunning architectural design."
+    },
+    {
+        "s_no": 13,
+        "question": "Identify the famous painting style of South India shown in this image.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Maratha_palace%2C_Tanjore.jpg/1200px-Maratha_palace%2C_Tanjore.jpg",
+        "options": {
+            "A": "Tanjore",
+            "B": "Madhubani",
+            "C": "Pattachitra",
+            "D": "Warli"
+        },
+        "correct_answer": "A",
+        "description": "Tanjore painting is a classical South Indian art form, known for its surface richness, compact composition, and surface decoration with gold foil."
+    },
+    {
+        "s_no": 14,
+        "question": "This is a famous site associated with Buddhist culture. Identify it.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG/597px-East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG",
+        "options": {
+            "A": "Ajanta Caves",
+            "B": "Sanchi Stupa",
+            "C": "Bodh Gaya",
+            "D": "Kailasa Temple"
+        },
+        "correct_answer": "B",
+        "description": "The Sanchi Stupa in Madhya Pradesh is one of the oldest stone structures in India, a UNESCO World Heritage Site, and an important symbol of Buddhist culture."
+    },
+    {
+        "s_no": 15,
+        "question": "This is a famous image of a traditional folk dance. What is it called?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Garba_%28dance%29.jpg/573px-Garba_%28dance%29.jpg",
+        "options": {
+            "A": "Bhangra",
+            "B": "Garba",
+            "C": "Lavani",
+            "D": "Dandiya"
+        },
+        "correct_answer": "B",
+        "description": "Garba is a traditional folk dance from Gujarat, performed during festivals like Navratri, characterized by rhythmic clapping and circular movement."
+    },
+    {
+        "s_no": 16,
+        "question": "Which Indian sculpture style is shown in this image of a large stone idol?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stone_sculptor_at_work.jpg/667px-Stone_sculptor_at_work.jpg",
+        "options": {
+            "A": "Bronze casting",
+            "B": "Stone carving",
+            "C": "Terracotta",
+            "D": "Wooden sculpture"
+        },
+        "correct_answer": "B",
+        "description": "The image represents stone carving, a traditional Indian sculpture style where idols and intricate designs are carved out of large rock formations, as seen in the Kailasa temple."
+    },
+    {
+        "s_no": 17,
+        "question": "This famous image depicts a traditional temple in India. Identify it.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1200px-Konarka_Temple.jpg",
+        "options": {
+            "A": "Konark Sun Temple",
+            "B": "Brihadeeswarar Temple",
+            "C": "Jagannath Temple",
+            "D": "Meenakshi Temple"
+        },
+        "correct_answer": "A",
+        "description": "The Konark Sun Temple in Odisha is an ancient temple dedicated to the Sun God, recognized for its chariot-like design and elaborate stone carvings."
+    },
+    {
+        "s_no": 18,
+        "question": "Which famous historical structure is depicted in this image, showcasing Mughal architecture?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1200px-Taj_Mahal%2C_Agra%2C_India.jpg",
+        "options": {
+            "A": "Red Fort",
+            "B": "Taj Mahal",
+            "C": "Qutub Minar",
+            "D": "Humayun's Tomb"
+        },
+        "correct_answer": "B",
+        "description": "The Taj Mahal in Agra is a stunning example of Mughal architecture, built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+        "s_no": 19,
+        "question": "Identify the ancient rock-cut temples shown in this image.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ellora_Cave_16_si0308.jpg/1200px-Ellora_Cave_16_si0308.jpg",
+        "options": {
+            "A": "Ellora Caves",
+            "B": "Ajanta Caves",
+            "C": "Meghalaya Caves",
+            "D": "Sanchi Stupa"
+        },
+        "correct_answer": "B",
+        "description": "The Ajanta Caves in Maharashtra are famous for their ancient Buddhist rock-cut temples and exquisite frescoes depicting the life of Buddha."
+    },
+    {
+        "s_no": 20,
+        "question": "This image represents the traditional art form of painting from Odisha. What is it called?",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Patta_Chitra_03.jpg/300px-Patta_Chitra_03.jpg",
+        "options": {
+            "A": "Warli",
+            "B": "Madhubani",
+            "C": "Pattachitra",
+            "D": "Tanjore"
+        },
+        "correct_answer": "C",
+        "description": "Pattachitra is a traditional painting form from Odisha, known for its intricate details, mythological narratives, and the use of natural dyes."
+    },
+    {
+        "s_no": 21,
+        "question": "Identify the architectural style of the temple in this image.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Brihadesvara_Temple%2C_Tanjavur%2C_India_02.jpg/220px-Brihadesvara_Temple%2C_Tanjavur%2C_India_02.jpg",
+        "options": {
+            "A": "Dravidian",
+            "B": "Nagara",
+            "C": "Vesara",
+            "D": "Indo-Islamic"
+        },
+        "correct_answer": "A",
+        "description": "The Brihadeeswarar Temple, located in Tamil Nadu, is an exemplary model of Dravidian architecture, with towering gopurams and elaborate stone carvings."
+    }
+]

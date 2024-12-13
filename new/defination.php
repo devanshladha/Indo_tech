@@ -3,7 +3,7 @@
 $index_title = "ART & CULTURE";
 $games_games_title = "Games & Quizzes";
 $games_quiz_game_title ="Quiz Game";
-$artefacts = "Artefacts - ART & CULTURE";
+$artefacts = "CulturaConnect";
 
 /*-- images link --*/ 
 

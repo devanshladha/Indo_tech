@@ -78,7 +78,7 @@ $dbname = "createx";
 
 ## Running the Application
 ### Step 1: Open Your Web Browser
-After completing the setup, open your web browser and go to http://localhost/projects to access the home page of the application.
+After completing the setup, open your web browser and go to http://localhost/projects/createX%2024/new/ to access the home page of the application.
 
 ### Step 2: Access Different Pages
 Daily Quiz: Access the daily quiz game at http://localhost/projects/createX%2024/new/games/daily_quiz.php.

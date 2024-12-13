@@ -1,0 +1,74 @@
+[
+    {
+        "s_no": 1,
+        "question": "Which of the following is the oldest classical dance form of India?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Kuchipudi",
+            "D": "Odissi"
+        },
+        "correct_answer": "B",
+        "description": "Bharatnatyam is the oldest classical dance form of India, originating in Tamil Nadu and known for its grace, storytelling, and intricate footwork."
+    },
+    {
+        "s_no": 2,
+        "question": "In which state is the Kathakali dance form primarily performed?",
+        "options": {
+            "A": "Kerala",
+            "B": "Uttar Pradesh",
+            "C": "Tamil Nadu",
+            "D": "Odisha"
+        },
+        "correct_answer": "A",
+        "description": "Kathakali is a traditional dance-drama from Kerala, characterized by elaborate costumes, vibrant makeup, and expressive facial gestures."
+    },
+    {
+        "s_no": 3,
+        "question": "The graceful and rhythmic footwork is a distinctive feature of which dance form?",
+        "options": {
+            "A": "Kathak",
+            "B": "Bharatnatyam",
+            "C": "Manipuri",
+            "D": "Odissi"
+        },
+        "correct_answer": "A",
+        "description": "Kathak is known for its intricate footwork, spins, and fast-paced movements that narrate stories through rhythmic patterns."
+    },
+    {
+        "s_no": 4,
+        "question": "Which dance form is known for its intricate hand gestures and mudras?",
+        "options": {
+            "A": "Kuchipudi",
+            "B": "Kathakali",
+            "C": "Bharatnatyam",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "description": "All three forms—Kuchipudi, Kathakali, and Bharatnatyam—use detailed hand gestures (mudras) to express emotions and tell stories."
+    },
+    {
+        "s_no": 5,
+        "question": "The Manipuri dance form is associated with which Indian state?",
+        "options": {
+            "A": "Manipur",
+            "B": "Assam",
+            "C": "Tripura",
+            "D": "Meghalaya"
+        },
+        "correct_answer": "A",
+        "description": "Manipuri is a classical dance form originating from the northeastern state of Manipur, known for its graceful, fluid movements."
+    },
+    {
+        "s_no": 6,
+        "question": "Which dance form is characterized by its energetic and vibrant movements?",
+        "options": {
+            "A": "Kathakali",
+            "B": "Odissi",
+            "C": "Kuchipudi",
+            "D": "Bhangra"
+        },
+        "correct_answer": "D",
+        "description": "Bhangra is a lively, energetic dance from Punjab, typically performed during harvest festivals, with fast footwork and vibrant expressions."
+    }
+]
